@@ -1,0 +1,5 @@
+{
+  "name": "React Music Player",
+  "description": "An elegant music player application built with React and Tailwind CSS. Users can upload their own music files and enjoy a seamless playback experience with a playlist and audio controls.",
+  "requestFramePermissions": []
+}
